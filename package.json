@@ -16,7 +16,12 @@
   },
   "author": "ricokoro",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a03-riokoro/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a03-ricokoro#readme",
   "dependencies": {
     "minimist": "^1.2.8"
-  }
+  },
+  "type": "module"
 }
